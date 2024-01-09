@@ -1,4 +1,4 @@
-Simplified example focusing on building a data pipeline using Python and SQL:
+Example building a data pipeline using Python and SQL:
 
 **Project Structure 1:**
 ```
@@ -191,7 +191,5 @@ This project demonstrates an ETL pipeline using Databricks and Apache Spark.
 2. Upload the notebooks to Databricks.
 3. Run each notebook in sequence.
 4. Execute the `etl_script.py` on the Databricks cluster.
-
-For more details, refer to individual notebooks.
 
 ```
